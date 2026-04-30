@@ -1,0 +1,1 @@
+In this project, AI tools (Google Gemini) were utilized for debugging Python code, refining the aesthetic parameters of visualizations, and structuring the markdown files. All data analysis, coding execution, and hypotheses were formulated independently.
