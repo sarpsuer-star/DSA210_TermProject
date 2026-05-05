@@ -4,3 +4,4 @@ geopy
 matplotlib
 seaborn
 scipy
+scikit-learn
