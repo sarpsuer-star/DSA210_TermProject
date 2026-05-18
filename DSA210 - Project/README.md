@@ -2,7 +2,7 @@
 
 **DSA 210 – Introduction to Data Science (Spring 2025-2026)** **Student:** Sarp Süer  
 **Institution:** Sabancı University  
-**Project Status:** 🟢 Phase 1 & 2 Completed (Data Collection, EDA, Hypothesis Testing)
+**Project Status:** 🟢 Completed (Data Collection, EDA, Hypothesis Testing, Machine Learning and Final Report)
 
 ---
 
@@ -57,13 +57,13 @@ I conducted four independent t-tests to validate the "Schedule Loss" theory nume
 
 ---
 
-## 🤖 Machine Learning Roadmap
-In the final phase (Milestone: May 5), I will use the following features to predict game outcomes:
+## 🤖 Machine Learning Models
+In the final phase, the following features were used to predict game outcomes:
 - `Distance_Traveled_km`
 - `Days_of_Rest`
 - `Altitude_Difference`
-- **Models:** Logistic Regression & Random Forest Classifier.
 
+**Models & Results:** Logistic Regression and Random Forest Classifiers were trained. The Random Forest model achieved the highest predictive accuracy at **54.13%**. Feature importance analysis revealed that travel distance and altitude differences held the highest predictive weights.
 ---
 
 ## ⚙️ Setup and Reproducibility
