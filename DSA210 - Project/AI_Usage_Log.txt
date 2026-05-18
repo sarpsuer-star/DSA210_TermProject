@@ -1,1 +1,12 @@
 In this project, AI tools (Google Gemini) were utilized for debugging Python code, refining the aesthetic parameters of visualizations, and structuring the markdown files. All data analysis, coding execution, and hypotheses were formulated independently.
+Prompt Examples:
+
+Prompt 1 (Data Processing): "I have a pandas dataframe containing NBA team abbreviations. How can I use the geopy library to fetch the latitude and longitude of their respective arenas and merge this data into my existing dataframe?"
+
+Prompt 2 (Data Visualization): "I created a bar chart using matplotlib to show 'Days of Rest vs. Win Probability', but the x-axis labels are overlapping. How can I rotate the labels 45 degrees and make the chart background transparent for a cleaner look?"
+
+Prompt 3 (Machine Learning): "I trained a Random Forest Classifier using scikit-learn, but the accuracy is around 54%. How can I extract and plot the 'feature importance' scores to see whether travel distance or rest days had a bigger impact on the model?"
+
+Prompt 4 (Statistical Testing): "I want to perform an independent two-sample t-test using scipy.stats to compare the offensive scoring output of teams that traveled more than 1500 km versus teams that traveled less than 500 km. What is the correct syntax for this?"
+
+Prompt 5 (Version Control): "When I try to run git push in the terminal to upload my final PDF report and scripts, I get a '[rejected] fetch first' error. How can I resolve this issue and safely upload my files to the GitHub repository?"
